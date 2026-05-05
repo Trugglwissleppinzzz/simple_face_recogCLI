@@ -1,0 +1,6 @@
+face_recognition
+opencv-python
+imutils
+setuptools<70
+git+https://github.com/ageitgey/face_recognition_models
+rich
